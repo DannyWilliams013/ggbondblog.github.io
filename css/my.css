@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'tzy';
+  font-family: 'wwb';
 /* 字体名自定义即可 */
-  src: url("https://github.com/DannyWilliams013/ggbondblog.github.io/zhuzi.woff2");
+  src: url("https://gitlab.com/PigMan6/ziti/-/blob/main/zhuzi.woff2");
 /* 字体文件路径 */
   font-display: swap;
 }
 body,
 .gitcalendar {
-  font-family: tzy !important;
+  font-family: wwb !important;
 }
 .categoryBar-list {
   max-height: 400px;
